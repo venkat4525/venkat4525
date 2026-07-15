@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-🎓 MCA Final Year Student | 📊 Aspiring Data Analyst | 💻 Python Developer
+🎓 MCA Final Year Student | 📊 Aspiring Data Analyst | 💻 Python full-Stack Developer
 </h3>
 
 <p align="center">

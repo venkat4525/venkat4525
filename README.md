@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-🎓 MCA Final Year Student | 📊 Aspiring Data Analyst | 💻 Python full-Stack Developer
+🎓 MCA Final Year Student | 📊 Aspiring Data Analyst | 💻 Python Developer
 </h3>
 
 <p align="center">
@@ -68,11 +68,26 @@ Become a professional **Data Analyst** by building data-driven solutions and int
 
 ---
 
+## 🌐 Web Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=express"/>
+<img src="https://skillicons.dev/icons?i=firebase"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+---
+
 ## 📊 Data Analytics
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>

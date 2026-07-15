@@ -5,7 +5,7 @@
 </div>
 
 <h3 align="center">
-🎓 MCA Final Year Student | 📊 Aspiring Data Analyst | 💻 Python Developer
+🎓 MCA Final Year Student | 📊 Aspiring Data Analyst | 💻 Python full Stack  Developer
 </h3>
 
 <p align="center">
@@ -74,7 +74,6 @@ Become a professional **Data Analyst** by building data-driven solutions and int
 
 <img src="https://skillicons.dev/icons?i=react"/>
 <img src="https://skillicons.dev/icons?i=nodejs"/>
-<img src="https://skillicons.dev/icons?i=express"/>
 <img src="https://skillicons.dev/icons?i=firebase"/>
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 
